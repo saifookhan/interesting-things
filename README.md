@@ -7,3 +7,5 @@
 ## Must see websites 
 - https://userinyerface.com/index.html
 - https://how-i-experience-web-today.com/detail.html
+## Good tech reads
+- https://97-things-every-x-should-know.gitbook.io/97-things-every-programmer-should-know/en
