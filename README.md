@@ -12,3 +12,4 @@
 - https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews
 - https://github.com/lydiahallie/javascript-questions
 - https://twitter.com/johnowhitaker/status/1565710033463156739
+- https://microsoft.github.io/Data-Science-For-Beginners/#/
