@@ -11,3 +11,4 @@
 - https://97-things-every-x-should-know.gitbook.io/97-things-every-programmer-should-know/en
 - https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews
 - https://github.com/lydiahallie/javascript-questions
+- https://twitter.com/johnowhitaker/status/1565710033463156739
